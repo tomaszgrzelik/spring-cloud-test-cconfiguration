@@ -1,0 +1,22 @@
+server:
+    port: 9000
+
+spring:
+    data:
+        mongodb:
+            database:   takedahcp-spring
+        elasticsearch:
+            cluster-nodes: 10.105.32.188:9300
+            repositories:
+                enabled: true
+security:
+  sessions: NEVER
+
+multipart:
+    maxFileSize: 1024KB
+    maxRequestSize: 1024KB
+
+storageLocation: /home/mariusz/projekty/takeda-spring-poc/storage/
+previewLocation: /home/mariusz/projekty/takeda-spring-poc/storage/preview/
+templateLocation: /home/mariusz/projekty/takeda-spring-poc/storage/template/template.html
+
