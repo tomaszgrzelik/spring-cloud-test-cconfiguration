@@ -4,4 +4,4 @@ spring:
   data:
     mongodb:
       database: usermanagement
-klucze: 'klucze z serwera github'
+klucz: 'klucze z serwera github'
