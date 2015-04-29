@@ -1,7 +1,0 @@
-server:
-  port: 1234
-spring:
-  data:
-    mongodb:
-      database: usermanagement
-klucz: 'klucze z serwera github1122222222224342'
