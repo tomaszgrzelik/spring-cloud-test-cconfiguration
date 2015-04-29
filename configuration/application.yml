@@ -5,3 +5,6 @@ eureka:
   instance:
     metadataMap:
       instanceId: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+
+
+klucz-wspolny: 'klucz z github, wspolny 13:17'
