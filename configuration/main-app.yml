@@ -1,3 +1,5 @@
+server:
+  port: 9080
 storageLocation: /home/tomasz/takeda/takeda-spring-poc/storage/
 
 klucz: 'wartosc z githuba - 13:16'
